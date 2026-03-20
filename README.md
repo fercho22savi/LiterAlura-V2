@@ -150,7 +150,7 @@ viewmodel
 
 👨‍💻 Autor
 
-Fernando (Jefe Maestro)
+Fernando 
 📺 Creador de contenido & desarrollador backend
 
 📜 Licencia
